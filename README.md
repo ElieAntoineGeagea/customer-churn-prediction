@@ -63,6 +63,19 @@ Each row represents one customer. The target variable indicates whether the cust
 The selected final model is:
 
 **Logistic Regression with `class_weight="balanced"`**
+## Model Results
+
+The final model was evaluated on the test set using a threshold of 0.50.
+
+| Metric | Score |
+|---|---:|
+| Accuracy | [0.738] |
+| Precision | [0.504] |
+| Recall | [0.783] |
+| F1-score | [0.613] |
+| ROC-AUC | [0.841] |
+
+The model achieved strong recall for the churn class, meaning it was able to identify a large proportion of customers who actually churned.
 
 This model was selected because it achieved strong recall for the churn class during cross-validation.
 
