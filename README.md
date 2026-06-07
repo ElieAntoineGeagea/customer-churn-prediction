@@ -30,8 +30,14 @@ To run this project, download the Telco Customer Churn dataset from Kaggle and p
 
 ```text
 data/raw/
-WA_Fn-UseC_-Telco-Customer-Churn.csv
+```
+
+Expected file name:
+
 ```text
+WA_Fn-UseC_-Telco-Customer-Churn.csv
+```
+
 
 ## Tools and Libraries
 
