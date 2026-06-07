@@ -22,6 +22,16 @@ Target variable: `Churn`
 
 Each row represents one customer. The target variable indicates whether the customer churned or not.
 
+## Data Access Note
+
+The raw dataset is not included in this repository because it is stored locally and ignored by Git.
+
+To run this project, download the Telco Customer Churn dataset from Kaggle and place the CSV file inside:
+
+```text
+data/raw/
+WA_Fn-UseC_-Telco-Customer-Churn.csv
+
 ## Tools and Libraries
 
 - Python
