@@ -135,3 +135,10 @@ The analysis showed that churn is associated with several factors:
 - Cost-sensitive threshold optimization
 - Streamlit dashboard
 - Model monitoring
+
+## How to Use the Saved Model
+
+A simple prediction script is included in the `src/` folder:
+
+```bash
+python src/predict_customer.py
