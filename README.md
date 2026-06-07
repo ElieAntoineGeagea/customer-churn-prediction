@@ -48,6 +48,11 @@ Each row represents one customer. The target variable indicates whether the cust
 10. Feature Importance
 11. Business Recommendations
 
+## Notebooks
+
+- [01_data_understanding.ipynb](notebooks/01_data_understanding.ipynb): data loading, data understanding, cleaning checks, and exploratory data analysis.
+- [02_preprocessing_modeling.ipynb](notebooks/02_preprocessing_modeling.ipynb): preprocessing, model training, cross-validation, final evaluation, threshold tuning, feature importance, and business recommendations.
+
 ## Models Tested
 
 - Dummy Classifier
