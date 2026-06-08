@@ -8,6 +8,12 @@ Customer churn occurs when a customer stops using a company’s services. Predic
 
 The project uses the Telco Customer Churn dataset and follows a full machine learning workflow, including data understanding, exploratory data analysis, preprocessing, model training, cross-validation, final evaluation, threshold tuning, and business recommendations.
 
+## Live Demo
+
+Try the deployed Streamlit app here:
+
+[Customer Churn Prediction App](https://customer-churn-prediction-3jjr8ekj6yayd7v9lugb2o.streamlit.app/)
+
 ## Business Problem
 
 Customer churn is costly for telecom companies because acquiring new customers is often more expensive than retaining existing ones.
