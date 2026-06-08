@@ -10,7 +10,7 @@ The project uses the Telco Customer Churn dataset and follows a full machine lea
 
 ## Live Demo
 
-Try the deployed Streamlit app here:
+Try the deployed Streamlit app here: 
 
 [Customer Churn Prediction App](https://customer-churn-prediction-3jjr8ekj6yayd7v9lugb2o.streamlit.app/)
 
